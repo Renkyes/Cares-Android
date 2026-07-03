@@ -113,7 +113,7 @@ object RetrofitClient {
      *
      * @see <a href="https://openweathermap.org/api">OpenWeatherMap API</a>
      */
-    const val API_KEY = "07c4dae817e2191b7b2542e6a844a2db"
+    const val API_KEY = "LA_TUA_KEY"
 
     /**
      * Istanza lazy di [WeatherApiService], creata al primo utilizzo.
