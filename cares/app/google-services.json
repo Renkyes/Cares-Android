@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "119963580196",
+    "project_id": "cares-fc6f3",
+    "storage_bucket": "cares-fc6f3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119963580196:android:a280ded6233ef9f53be5b1",
+        "android_client_info": {
+          "package_name": "com.example.cares"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuidjoQsfCLULWqw1bKFhuQCwQImqwtIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
